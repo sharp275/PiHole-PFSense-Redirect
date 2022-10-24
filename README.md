@@ -1,5 +1,5 @@
 # PiHole-PFSense-Redirect
- <h1 align="center">How to redirect DNS and DoT traffic to PiHole</h1>
+ <h1 align="center">How to redirect DNS traffic to PiHole</h1>
 
 
 <h2 align="center">Create a rule so that DNS inquires from the PiHole are allowed</h2>
