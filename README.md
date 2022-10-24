@@ -65,3 +65,5 @@ Right now all DNS traffic (port 53) is being redirected to the PiHole.  The prob
 <p align="center">
   <img width="1000" src="3.jpeg">
 </p>
+<h2 align="center">Blocking DoT and DoH servers</h2>
+
