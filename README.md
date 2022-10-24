@@ -67,3 +67,4 @@ Right now all DNS traffic (port 53) is being redirected to the PiHole.  The prob
 </p>
 <h2 align="center">Blocking DoT and DoH servers</h2>
 
+DNS inquiries can be encrypted by using TLS, known as DNS over TLS (DoT), or over HTTPS, known as DNS over HTTPS (DoH).  DNS requests made this way will bypass the redirect rule since that rule only targets port 53.  DoT uses port 853 and DoH uses port 443.
